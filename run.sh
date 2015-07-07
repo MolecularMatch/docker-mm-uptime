@@ -5,6 +5,8 @@ npm install
 #Pull down certs from etcd server and write them to /etc/nginx/
 #nodejs get_certs.js
 
+#source ./variables
+
 cd /tmp/uptime
 
 #Start by setting up the configuration file with environment variables
