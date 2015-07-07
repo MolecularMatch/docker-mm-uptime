@@ -3,7 +3,7 @@ cd /tmp
 npm install
 
 #Pull down certs from etcd server and write them to /etc/nginx/
-nodejs get_certs.js
+#nodejs get_certs.js
 
 cd /tmp/uptime
 
